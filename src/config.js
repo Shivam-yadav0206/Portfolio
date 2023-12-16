@@ -19,12 +19,12 @@ export const PROJECT_INFO = [
   },
   {
     id: "103",
-    picture: "/assets/image/",
-    name: "Zwiggy",
+    picture: "/assets/image/portfolio.png",
+    name: "Portfolio (Recursion 😉)",
     category: "Js",
-    githubFE: "",
-    githubBE: "",
-    url: "",
+    githubFE: "https://github.com/Shivam-yadav0206/Portfolio",
+    githubBE: "https://github.com/Shivam-yadav0206/Portfolio",
+    url: "https://portfolio-shivam-pi.vercel.app/project",
   },
   {
     id: "104",
