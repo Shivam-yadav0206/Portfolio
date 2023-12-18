@@ -28,6 +28,15 @@ export const PROJECT_INFO = [
   },
   {
     id: "104",
+    picture: "/assets/image/zwiggy.png",
+    name: "Zwiggy",
+    category: "Js",
+    githubFE: "https://github.com/Shivam-yadav0206/Zwiggy",
+    githubBE: "https://github.com/Shivam-yadav0206/Zwiggy",
+    url: "https://65804ce258f3e6482995c348--luminous-tapioca-6a9dbd.netlify.app/",
+  },
+  {
+    id: "105",
     picture: "/assets/image/moviesHub.png",
     name: "MoviesHub",
     category: "Js",
@@ -36,7 +45,7 @@ export const PROJECT_INFO = [
     url: "https://movies-hub-front-end.vercel.app/",
   },
   {
-    id: "105",
+    id: "106",
     picture: "/assets/image/quizzy.png",
     named: "Quizzy",
     category: "MEVN",
@@ -45,7 +54,7 @@ export const PROJECT_INFO = [
     url: "https://quizzyy.vercel.app/",
   },
   {
-    id: "106",
+    id: "107",
     picture: "/assets/image/weatherApp.png",
     name: "Weather App",
     category: "Js",

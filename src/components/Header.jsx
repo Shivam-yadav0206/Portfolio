@@ -3,7 +3,6 @@ import { Link, useLocation } from "react-router-dom";
 
 const Header = ({ setIsAuthenticated }) => {
   const location = useLocation();
-
   const [menuIcon, setMenuIcon] = useState("menu");
 
   useEffect(() => {
