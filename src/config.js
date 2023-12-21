@@ -33,7 +33,7 @@ export const PROJECT_INFO = [
     category: "Js",
     githubFE: "https://github.com/Shivam-yadav0206/Zwiggy",
     githubBE: "https://github.com/Shivam-yadav0206/Zwiggy",
-    url: "https://65804ce258f3e6482995c348--luminous-tapioca-6a9dbd.netlify.app/",
+    url: "https://zwiggy-six.vercel.app/",
   },
   {
     id: "105",
