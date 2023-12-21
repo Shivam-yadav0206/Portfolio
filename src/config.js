@@ -15,7 +15,7 @@ export const PROJECT_INFO = [
     category: "MERN",
     githubFE: "https://github.com/Shivam-yadav0206/SocioMedia-Frontend",
     githubBE: "https://github.com/Shivam-yadav0206/SocioMedia-Backend",
-    url: "https://rad-churros-620ad0.netlify.app/",
+    url: "https://socio-media-frontend.vercel.app/",
   },
   {
     id: "103",
