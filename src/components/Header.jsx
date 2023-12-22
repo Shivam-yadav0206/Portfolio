@@ -37,7 +37,7 @@ const Header = ({ setIsAuthenticated }) => {
             </li>
             <li>
               <Link to="/project" className="hover:text-primary-700">
-                Project
+                Projects
               </Link>
             </li>
             <li>
