@@ -34,10 +34,10 @@ const About = () => {
               <span className="text-yellow-300">
                 '
                 <Link
-                  href="https://scottwindon.com"
+                  to="https://portfolio-shivam-pi.vercel.app/"
                   target="_blank"
                   className="text-yellow-300 hover:underline focus:border-none">
-                  https://scottwindon.com
+                  https://portfolio-shivam-pi.vercel.app/
                 </Link>
                 '
               </span>
@@ -96,21 +96,6 @@ const About = () => {
           </div>
         </div>
       </div>
-
-      {/*<input
-        type="range"
-        min={0}
-        max="100"
-        value="60"
-        className="range range-info"
-      />
-       <input
-        type="range"
-        min={0}
-        max="100"
-        value="60"
-        className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer dark:bg-gray-700"
-      /> */}
     </>
   );
 };
