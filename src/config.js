@@ -1,5 +1,32 @@
 export const PROJECT_INFO = [
   {
+    id: "111",
+    picture: "/assets/image/ticketMaster.png",
+    name: "Ticket Express",
+    category: "MERN",
+    githubFE: "https://github.com/Shivam-yadav0206/TicketMaster",
+    githubBE: "https://github.com/Shivam-yadav0206/TicketMasterBE",
+    url: "https://ticket-master-gilt.vercel.app/",
+  },
+  {
+    id: "112",
+    picture: "/assets/image/Megabyte.png",
+    name: "MegaByte Ecommerce",
+    category: "MERN",
+    githubFE: "https://github.com/Shivam-yadav0206/Ecommerce",
+    githubBE: "https://github.com/Shivam-yadav0206/ECommerceBE",
+    url: "https://megabyte-rose.vercel.app/",
+  },
+  {
+    id: "113",
+    picture: "/assets/image/blogApp.png",
+    name: "Blog App",
+    category: "MERN",
+    githubFE: "https://github.com/Shivam-yadav0206/Blog-App-FrontEnd",
+    githubBE: "https://github.com/Shivam-yadav0206/Blog-App-BackEnd",
+    url: "https://blog-app-fe-delta.vercel.app/login",
+  },
+  {
     id: "101",
     picture: "/assets/image/blogApp.png",
     name: "Blog App",
@@ -29,7 +56,7 @@ export const PROJECT_INFO = [
   {
     id: "104",
     picture: "/assets/image/zwiggy.png",
-    name: "Zwiggy",
+    name: "Food MATA",
     category: "Js",
     githubFE: "https://github.com/Shivam-yadav0206/Zwiggy",
     githubBE: "https://github.com/Shivam-yadav0206/Zwiggy",
