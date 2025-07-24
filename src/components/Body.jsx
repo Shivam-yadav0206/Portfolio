@@ -32,7 +32,6 @@ const Body = () => {
                 {" "}
                 Hire me
               </Link>
-
             </div>
           </div>
         </div>
@@ -49,6 +48,54 @@ const Body = () => {
           </p>
 
           <div className="mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-1">
+            <div className="bg-gray-50 px-8 py-10 rounded-md">
+              <h5 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                Natlov Technologies
+              </h5>
+              <h6 className="text-gray-700 text-md mb-4">2024 – Present</h6>
+              <p>Position: MERN Stack Developer </p>
+              <p className="font-normal text-gray-500 text-md mb-4">
+                Internship highlights: Guided peers by resolving technical
+                doubts and offering mentorship. Integral role in developing
+                backend servers, showcasing adept problem-solving.
+              </p>
+
+              <div className="relative">
+                <Link
+                  to="https://www.natlov.com/"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  <h6 className="font-semibold text-gray-500 text-md relative z-10">
+                    See the place here
+                  </h6>
+                </Link>
+                <span className="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
+              </div>
+            </div>
+            <div className="bg-gray-50 px-8 py-10 rounded-md">
+              <h5 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                Coding Blocks
+              </h5>
+              <h6 className="text-gray-700 text-md mb-4">2022 – 2023</h6>
+              <p>Position: Teaching Assistant (TA)</p>
+              <p className="font-normal text-gray-500 text-md mb-4">
+                Led students in tackling intricate data structure challenges,
+                fostering the development of robust problem-solving skills and
+                logical reasoning.
+              </p>
+
+              <div className="relative">
+                <Link
+                  to="https://codingblocks.com/"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  <h6 className="font-semibold text-gray-500 text-md relative z-10">
+                    See the place here
+                  </h6>
+                </Link>
+                <span className="w-32 h-1 bg-blue-200 absolute bottom-1 left-0 z-0"></span>
+              </div>
+            </div>
             <div className="bg-gray-50 px-8 py-10 rounded-md">
               <h5 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 DevTown
@@ -99,6 +146,7 @@ const Body = () => {
             </div>
           </div>
         </div>
+
         <div className="container max-w-screen-xl my-16 mx-auto px-4">
           <h1 className="text-center font-medium text-gray-700 text-3xl md:text-4xl mb-5">
             Education
