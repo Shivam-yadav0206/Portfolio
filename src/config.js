@@ -1,14 +1,5 @@
 export const PROJECT_INFO = [
   {
-    id: "111",
-    picture: "/assets/image/ticketMaster.png",
-    name: "Ticket Express",
-    category: "MERN",
-    githubFE: "https://github.com/Shivam-yadav0206/TicketMaster",
-    githubBE: "https://github.com/Shivam-yadav0206/TicketMasterBE",
-    url: "https://ticket-master-gilt.vercel.app/",
-  },
-  {
     id: "112",
     picture: "/assets/image/Megabyte.png",
     name: "MegaByte Ecommerce",
@@ -18,13 +9,13 @@ export const PROJECT_INFO = [
     url: "https://megabyte-rose.vercel.app/",
   },
   {
-    id: "113",
-    picture: "/assets/image/blogApp.png",
-    name: "Blog App",
+    id: "111",
+    picture: "/assets/image/ticketMaster.png",
+    name: "Ticket Express",
     category: "MERN",
-    githubFE: "https://github.com/Shivam-yadav0206/Blog-App-FrontEnd",
-    githubBE: "https://github.com/Shivam-yadav0206/Blog-App-BackEnd",
-    url: "https://blog-app-fe-delta.vercel.app/login",
+    githubFE: "https://github.com/Shivam-yadav0206/TicketMaster",
+    githubBE: "https://github.com/Shivam-yadav0206/TicketMasterBE",
+    url: "https://ticket-master-gilt.vercel.app/",
   },
   {
     id: "101",
